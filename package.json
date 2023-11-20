@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "THESIS",
   "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js  "
+  "start": "node index.js", 
+  "dev": "nodemon index.js"
   },
   "author": "Group-6",
   "license": "ISC",
